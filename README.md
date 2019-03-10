@@ -47,5 +47,5 @@ __Front End:__ Swing,AWT.
 ![alt text](https://github.com/KartikMamodia/File_Sharing_System/blob/master/Img/SavedData.PNG)
 
 ### Delete File
-![alt text](https://github.com/KartikMamodia/File_Sharing_System/blob/master/Img/DeleteData.PNG)
+![alt text](https://github.com/KartikMamodia/File_Sharing_System/blob/master/Img/DeleteData1.PNG)
 
