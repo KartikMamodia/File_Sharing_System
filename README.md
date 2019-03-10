@@ -14,11 +14,11 @@
 * Install Apache and MYSQL in desktop
 * Open localhost( `http://localhost/phpmyadmin/` )  
    ```8080 is port number assigned to Apache server```
-* Create database 'filesystem' in localhost
+* Create database `filesystem` in localhost
 * Import all the sql files in localhost
 * Open cmd/Terminal in src folder
 * Compile `javac *.java`
-* Compile `javac FileSystem.java`
+* Compile `javac FileShareSystem.java`
 * Run `java FileSystem`
 
 
