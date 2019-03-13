@@ -19,7 +19,7 @@
 * Open cmd/Terminal in src folder
 * Compile `javac *.java`
 * Compile `javac FileShareSystem.java`
-* Run `java FileSystem`
+* Run `java FileShareSystem`
 
 
 ## FrontEnd / Backend  
