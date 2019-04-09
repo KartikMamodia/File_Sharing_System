@@ -51,4 +51,4 @@ __Front End:__ Swing,AWT.
 
 ---
 ## Future Scope
-* OPT system to conform the authentication of new user.
+* OTP system to conform the authentication of new user.
